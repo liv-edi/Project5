@@ -1,5 +1,7 @@
 ## Project 5
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this project we created a Monster game using classes that gave the monsters an initial life value and min. life value for the monster to be alive. When the game ran the monster's life is drained by a random amount and went on until all of the monsters had died.
 
 Technologies used for this project:
